@@ -54,6 +54,8 @@ public class MainActivity extends AppCompatActivity {
         list.add(a);
         a= new Album("horroe",5,as[2]);
         list.add(a); a= new Album("mysterRomanc",50,as[3]);
+
+        
         list.add(a); a= new Album("fanstaw",40,as[4]);
         list.add(a); a= new Album("thirller",30,as[5]);
         list.add(a); a= new Album("drama",60,as[6]);
